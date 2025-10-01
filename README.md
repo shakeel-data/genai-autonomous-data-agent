@@ -1,6 +1,4 @@
-# 🚀 GenAI Autonomous Data Agent
-
-## AI-Powered Data Analysis with GPU Acceleration & Advanced ML
+# AI-Powered Data Analysis with GPU Acceleration & Advanced ML
 
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
