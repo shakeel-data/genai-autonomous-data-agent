@@ -1,0 +1,76 @@
+# ===== Core Data Science Stack =====
+pandas>=2.1.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# ===== Machine Learning Algorithms =====
+xgboost>=2.0.0
+lightgbm>=4.1.0
+catboost>=1.2.0
+
+# ===== Deep Learning =====
+tensorflow>=2.13.0
+torch>=2.1.0
+
+# ===== Model Explainability =====
+shap>=0.43.0
+lime>=0.2.0
+dalex>=1.4.0
+
+# ===== Data Visualization =====
+matplotlib>=3.8.0
+seaborn>=0.13.0
+altair>=5.2.0
+plotly>=5.17.0
+
+# ===== Web Framework & Dashboard =====
+streamlit>=1.28.0
+streamlit-aggrid>=0.3.4
+streamlit-option-menu>=0.3.6
+
+# ===== Database & SQL =====
+sqlalchemy>=2.0.0
+pymongo>=4.6.0
+
+# ===== API & Integration =====
+requests>=2.31.0
+openai>=1.3.0
+anthropic>=0.8.0
+
+# ===== Report Generation =====
+fpdf2>=2.7.4
+python-docx>=1.1.10
+jinja2>=3.1.0
+Pillow>=10.0.0
+psutil>=5.9.0
+
+# ===== Development & Testing =====
+pytest>=7.4.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# ===== Environment & Configuration =====
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+omegaconf>=2.3.0
+
+# ===== Utilities =====
+tqdm>=4.66.0
+rich>=13.7.0
+loguru>=0.7.0
+joblib>=1.1.0
+pathlib>=1.0.0
+cython>=3.0.0   # Required for Prophet builds
+
+# ===== Time Series Forecasting =====
+prophet>=1.1.0   # Uses pystan internally, stable on Python 3.11
+
+# ===== Optional GPU Acceleration =====
+# cudf>=24.08.0        # Uncomment if NVIDIA GPU + CUDA installed
+# cuml>=24.08.0        # Uncomment if NVIDIA GPU + CUDA installed
+
+# ===== Optional Advanced Features =====
+umap-learn>=0.5.0
+hdbscan>=0.8.0
+weasyprint>=58.0  # For HTML to PDF conversion

@@ -1,0 +1,68 @@
+# GenAI Autonomous Data Agent - Configuration
+
+# ===== Application Settings =====
+app:
+  name: "GenAI Autonomous Data Agent"
+  version: "1.0.0"
+  description: "AI-powered data analysis with ML, SQL, and explainability"
+  environment: "development"
+
+# ===== GPU & Acceleration Settings =====
+gpu:
+  enabled: false  # Set to true if you have NVIDIA GPU
+  device: "cuda:0"
+  memory_fraction: 0.8
+
+# ===== Database Configuration =====
+database:
+  type: "sqlite"
+  sqlite:
+    path: "./data/autonomous_agent.db"
+
+# ===== Machine Learning Settings =====
+ml:
+  algorithms:
+    - "RandomForest"
+    - "XGBoost"
+    - "LightGBM"
+    - "LogisticRegression"
+    - "LinearRegression"
+  validation:
+    test_size: 0.2
+    cross_validation_folds: 5
+    random_state: 42
+
+# ===== Explainability Configuration =====
+explainability:
+  methods:
+    - "SHAP"
+    - "LIME"
+  shap:
+    max_evals: 1000
+    background_samples: 100
+
+# ===== Visualization Settings =====
+visualization:
+  theme: "plotly_white"
+  color_palette: ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd"]
+  figure_size: [12, 8]
+
+# ===== Streamlit Dashboard =====
+dashboard:
+  port: 8501
+  host: "0.0.0.0"
+  theme:
+    primary_color: "#FF6B6B"
+    background_color: "#FFFFFF"
+    secondary_background_color: "#F0F2F6"
+    text_color: "#262730"
+
+# ===== Logging Configuration =====
+logging:
+  level: "INFO"
+  format: "{time} | {level} | {name} | {message}"
+  
+# ===== Security Settings =====
+security:
+  max_file_size: 500  # MB
+  allowed_file_types: [".csv", ".xlsx", ".json", ".parquet"]

@@ -1,0 +1,32 @@
+{
+  "primaryColor": "#667eea",
+  "backgroundColor": "#f8f9fa",
+  "secondaryBackgroundColor": "#ffffff",
+  "textColor": "#2c3e50",
+  "font": "Segoe UI",
+  "base": "light",
+  "theme": {
+    "textColor": "#2c3e50",
+    "backgroundColor": "#f8f9fa",
+    "primaryColor": "#667eea",
+    "secondaryBackgroundColor": "#ffffff"
+  },
+  "chart_config": {
+    "color_palette": ["#667eea", "#764ba2", "#36a2eb", "#4bc0c0", "#9966ff", "#ff9f40"],
+    "background_color": "white",
+    "grid_color": "#f0f0f0",
+    "font_family": "Segoe UI",
+    "font_size": 12
+  },
+  "streamlit_config": {
+    "showErrorDetails": false,
+    "showWarningOnDirectExecution": false,
+    "theme": {
+      "base": "light",
+      "primaryColor": "#667eea",
+      "backgroundColor": "#f8f9fa",
+      "secondaryBackgroundColor": "#ffffff",
+      "textColor": "#2c3e50"
+    }
+  }
+}

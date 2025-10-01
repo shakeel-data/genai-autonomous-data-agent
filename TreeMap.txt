@@ -1,0 +1,81 @@
+genai_autonomous_data_agent/
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+├── ⚙️ config.yaml
+├── 📄 .env.template
+├── 📄 .gitignore
+├── 🐍 setup.py
+├── 🐍 app.py                          # Main Streamlit application
+│
+├── 📁 src/                            # Core source modules
+│   ├── 🐍 __init__.py
+│   ├── 🐍 config.py                   # Configuration management
+│   ├── 🐍 data_processor.py           # RAPIDS data processing
+│   ├── 🐍 eda_module.py               # Exploratory data analysis
+│   ├── 🐍 ml_module.py                # Machine learning training
+│   ├── 🐍 explain_module.py           # SHAP/LIME explainability
+│   ├── 🐍 sql_agent.py                # NeMo text-to-SQL agent
+│   ├── 🐍 report_generator.py         # Automated report generation
+│   └── 🐍 utils.py                    # Utility functions
+│
+├── 📁 data/                           # Data storage
+│   ├── 📁 raw/                        # Original datasets
+│   ├── 📁 processed/                  # Cleaned datasets
+│   └── 📁 sample_datasets/            # Sample data for testing
+│       ├── 📊 ecommerce_sales.csv
+│       ├── 📊 healthcare_data.csv
+│       ├── 📊 financial_market.csv
+│       └── 📊 automotive_performance.csv
+│
+├── 📁 models/                         # Model artifacts
+│   ├── 📁 trained_models/             # Saved ML models (.pkl, .joblib)
+│   ├── 📁 explainers/                 # SHAP/LIME explainer objects
+│   └── 📁 artifacts/                  # Model metadata & configs
+│
+├── 📁 notebooks/                      # Jupyter notebooks for development
+│   ├── 📊 01_colab_prototype.ipynb    # Colab GPU prototype
+│   ├── 📊 02_eda_analysis.ipynb       # EDA exploration
+│   ├── 📊 03_model_training.ipynb     # ML model development
+│   └── 📊 04_sql_testing.ipynb        # SQL agent testing
+│
+├── 📁 tests/                          # Unit tests
+│   ├── 🐍 __init__.py
+│   ├── 🐍 test_data_processor.py
+│   ├── 🐍 test_eda_module.py
+│   ├── 🐍 test_ml_module.py
+│   ├── 🐍 test_explain_module.py
+│   └── 🐍 test_sql_agent.py
+│
+├── 📁 docs/                           # Documentation
+│   ├── 📄 api_documentation.md
+│   ├── 📄 deployment_guide.md
+│   ├── 📄 user_manual.md
+│   └── 📄 development_guide.md
+│
+├── 📁 outputs/                        # Generated outputs
+│   ├── 📁 reports/                    # Generated reports
+│   │   ├── 📄 analysis_report.pdf
+│   │   ├── 📄 analysis_report.html
+│   │   └── 📄 analysis_report.docx
+│   ├── 📁 visualizations/             # Saved charts & plots
+│   │   ├── 🖼️ correlation_matrix.png
+│   │   ├── 🖼️ feature_importance.png
+│   │   └── 🖼️ model_performance.png
+│   └── 📁 exports/                    # Exported datasets
+│
+├── 📁 scripts/                        # Utility scripts
+│   ├── 🐍 setup_environment.py        # Environment setup
+│   ├── 🐍 download_sample_data.py     # Download sample datasets
+│   ├── 🐍 benchmark.py                # Performance benchmarking
+│   └── 🐍 deploy_streamlit.py         # Streamlit Cloud deployment
+│
+├── 📁 templates/                      # Report templates
+│   ├── 📄 report_template.html        # HTML report template
+│   ├── 📄 report_template.docx        # Word report template
+│   └── 📄 dashboard_theme.json        # Streamlit theme config
+│
+└── 📁 logs/                          # Application logs
+    ├── 📄 app.log                     # Main application logs
+    ├── 📄 ml_training.log             # ML training logs
+    └── 📄 error.log                   # Error logs
