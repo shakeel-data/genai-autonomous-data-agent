@@ -64,11 +64,11 @@ streamlit run app.py
 - Interactive dashboard with charts & exportable insights.
 
 ## 📌 Use Cases
-- 📈 Business analytics on sales, churn, revenue
-- 🧬 Healthcare predictions (diagnosis, outcomes)
-- 🏦 Finance (fraud detection, forecasting)
-- 🛒 Retail insights (segmentation, demand prediction)
-- 🎓 Education analytics (student performance, outcomes)
+- Business analytics on sales, churn, revenue
+- Healthcare predictions (diagnosis, outcomes)
+- Finance (fraud detection, forecasting)
+- Retail insights (segmentation, demand prediction)
+- Education analytics (student performance, outcomes)
 
 ## 🔮 Roadmap
  - Autonomous Data-to-Insights Agent Loop
