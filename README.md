@@ -5,7 +5,7 @@
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
 
-💡 Think of it as your Autonomous Data Scientist — always ready, always fast.
+> *💡 Think of it as your Autonomous Data Scientist — always ready, always fast.*
 
 ## ✨ Key Features
 - ✅ Data Preprocessing – Cleans and preprocesses raw datasets automatically (missing values, scaling, encoding).
@@ -27,8 +27,8 @@ Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent
 - Deployment: Docker + Streamlit + NVIDIA GPU acceleration
 
 ## ⚡ Demo
-🎥 Video Demo: [link]
-📂 Live Project / Streamlit App: [link]
+- 🎥 Video Demo: [link]
+- 📂 Live Project / Streamlit App: [link]
 
 ## Getting Started
 1. Clone the repo
@@ -83,6 +83,3 @@ Contributions, feedback, and ideas are always welcome. Feel free to fork the rep
 
 ## 🏆 NVIDIA GTC 2025 Submission
 This project is submitted to the NVIDIA GTC 2025 Golden Ticket Challenge, showcasing how GPU-accelerated, open-source innovation can power next-gen autonomous data science workflows.
-
-
-> **AI-Powered Data Analysis with GPU Acceleration & Advanced ML**  
