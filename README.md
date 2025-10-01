@@ -76,8 +76,58 @@ streamlit run app.py
  - Add multi-dataset benchmarking mode
  - Cloud deployment (AWS/GCP/Azure)
 
-## 🤝 Contributing
-Contributions, feedback, and ideas are always welcome. Feel free to fork the repo, raise issues, or open pull requests to make this project stronger.
-
 ## 🏆 NVIDIA GTC 2025 Submission
 This project is submitted to the NVIDIA GTC 2025 Golden Ticket Challenge, showcasing how GPU-accelerated, open-source innovation can power next-gen autonomous data science workflows.
+
+## 📚 Platform Capabilities
+Advanced Technologies:
+- NVIDIA RAPIDS cuDF/cuML → GPU acceleration for 10–100x speedups
+- AutoML Pipeline → Train 6+ algorithms automatically
+- SHAP & LIME → Real-time model explanations
+- NLP-to-SQL → Chat with your data in plain English
+- Smart Feature Engineering → Automated data preprocessing
+- Multi-format Reports → PDF, HTML, DOCX generation
+
+## 📈 Business Intelligence
+- Automated EDA → Statistical analysis & insights
+- Predictive Modeling → Classification & regression
+- Interactive Visualizations → Plotly-powered charts
+- Data Quality Assessment → Missing values & outliers
+- Feature Importance → Understand key drivers
+- Actionable Recommendations → Business-ready insights
+
+## ⚡ Quick Start Guide (5 Minutes)
+Step 1: Data Upload
+- Upload CSV/Excel file or use sample datasets
+- Automatic data quality assessment
+- Smart preprocessing with GPU acceleration
+
+Step 2: Exploratory Analysis
+- One-click comprehensive EDA
+- Statistical summaries + correlations
+- Interactive visualizations
+
+Step 3: ML Training
+- AutoML with 6+ algorithms
+- Cross-validation & performance metrics
+- Feature importance analysis
+
+Step 4: Explainability
+- SHAP global explanations
+- LIME local explanations
+- Business-friendly insights
+
+Step 5: Natural Language SQL
+- Ask questions in plain English
+- Automatic SQL generation
+- Interactive query results
+
+Step 6: Generate Reports
+- Comprehensive analysis reports
+- Multiple formats: PDF / HTML / DOCX
+- Executive summaries
+
+## 🤝 Contributing
+
+Contributions, feedback & ideas are always welcome 💡
+- Fork the repo, raise issues, or open pull requests to make this project stronger.
