@@ -8,24 +8,23 @@ Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent
 💡 Think of it as your Autonomous Data Scientist — always ready, always fast.
 
 ## ✨ Key Features
-
-✅ Data Preprocessing – Cleans and preprocesses raw datasets automatically (missing values, scaling, encoding).
-✅ Exploratory Data Analysis (EDA) – Generates correlations, distributions, and smart visualizations.
-✅ Automated ML Modeling – Trains & benchmarks multiple models (XGBoost, LightGBM, PyTorch, TensorFlow).
-✅ GPU Acceleration – Leverages NVIDIA RAPIDS for blazing-fast DataFrame ops and ML pipelines.
-✅ Explainable AI – Explains predictions in plain English using SHAP & LIME.
-✅ Natural Language → SQL – Converts plain English queries into optimized SQL with GenAI + NVIDIA NeMo.
-✅ Interactive Dashboards – Generates insights in Streamlit dashboards exportable to PDF/Excel.
-✅ Autonomous Agent Loop – Iteratively improves models, queries, and dashboards without manual intervention.
+- ✅ Data Preprocessing – Cleans and preprocesses raw datasets automatically (missing values, scaling, encoding).
+- ✅ Exploratory Data Analysis (EDA) – Generates correlations, distributions, and smart visualizations.
+- ✅ Automated ML Modeling – Trains & benchmarks multiple models (XGBoost, LightGBM, PyTorch, TensorFlow).
+- ✅ GPU Acceleration – Leverages NVIDIA RAPIDS for blazing-fast DataFrame ops and ML pipelines.
+- ✅ Explainable AI – Explains predictions in plain English using SHAP & LIME.
+- ✅ Natural Language → SQL – Converts plain English queries into optimized SQL with GenAI + NVIDIA NeMo.
+- ✅ Interactive Dashboards – Generates insights in Streamlit dashboards exportable to PDF/Excel.
+- ✅ Autonomous Agent Loop – Iteratively improves models, queries, and dashboards without manual intervention.
 
 ## 🛠️ Tech Stack
-Core: Python, SQL, Streamlit
-ML/DL: XGBoost, LightGBM, PyTorch, TensorFlow
-GenAI: NVIDIA NeMo, Hugging Face Transformers
-Explainability: SHAP, LIME
-Data Processing: Pandas, RAPIDS cuDF, cuML
-Visualization: Matplotlib, Seaborn, Plotly
-Deployment: Docker + Streamlit + NVIDIA GPU acceleration
+- Core: Python, SQL, Streamlit
+- ML/DL: TensorFlow, PyTorch, XGBoost, LightGBM, Prophet, K-Means
+- GenAI: NVIDIA NeMo, Hugging Face Transformers
+- Explainability: SHAP, LIME
+- Data Processing: Pandas, RAPIDS cuDF, cuML
+- Visualization: Matplotlib, Seaborn, Plotly
+- Deployment: Docker + Streamlit + NVIDIA GPU acceleration
 
 ## ⚡ Demo
 🎥 Video Demo: [link]
@@ -85,10 +84,5 @@ Contributions, feedback, and ideas are always welcome. Feel free to fork the rep
 ## 🏆 NVIDIA GTC 2025 Submission
 This project is submitted to the NVIDIA GTC 2025 Golden Ticket Challenge, showcasing how GPU-accelerated, open-source innovation can power next-gen autonomous data science workflows.
 
-# 🚀 GenAI Autonomous Data Agent  
-[![NVIDIA GTC 2025 Submission](https://img.shields.io/badge/NVIDIA%20GTC-2025%20Golden%20Ticket-brightgreen?logo=nvidia&logoColor=white)](https://www.nvidia.com/gtc/)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)](https://streamlit.io)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
 > **AI-Powered Data Analysis with GPU Acceleration & Advanced ML**  
