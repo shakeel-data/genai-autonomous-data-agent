@@ -129,5 +129,6 @@ Step 6: Generate Reports
 
 ## 🤝 Contributing
 
-Contributions, feedback & ideas are always welcome 💡
-- Fork the repo, raise issues, or open pull requests to make this project stronger.
+Contributions, feedback & ideas are always welcome
+
+Fork the repo, raise issues, or open pull requests to make this project stronger.
