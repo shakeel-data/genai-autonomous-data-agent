@@ -218,7 +218,7 @@ st.markdown("""
         font-size: 14px;
         padding: 8px 12px;
         transition: all 0.2s ease;
-        background: var(--nvidia-white);
+        background: var(--nvidia-gray);
         font-family: 'Arial', sans-serif;
     }
     
