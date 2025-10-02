@@ -25,7 +25,8 @@ Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent
 - Deployment: Docker + Streamlit + NVIDIA GPU acceleration
 
 ## ⚡ Demo
-- 🎥 Video Demo: [https://github.com/shakeel-data/genai-autonomous-data-agent/blob/main/demo/Demo-video.mp4]
+- 🎥 2 Minute Video
+<a href="https://github.com/shakeel-data/genai-autonomous-data-agent/blob/main/demo/Demo-video.mp4">Demo</a>
 - 📂 Live Project / Streamlit App: [link]
 
 ## Getting Started
