@@ -1,9 +1,9 @@
-# AI-Powered Data Analysis with GPU Acceleration & Advanced ML
+# ⚡AI-Powered Data Analysis with GPU Acceleration & Advanced ML
 
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
 
-> 💡 Think of it as your Autonomous Data Scientist — always ready, always fast.
+> Think of it as your Autonomous Data Scientist — always ready, always fast.
 
 ## ✨ Key Features
 - ✅ Data Preprocessing – Cleans and preprocesses raw datasets automatically (missing values, scaling, encoding).
