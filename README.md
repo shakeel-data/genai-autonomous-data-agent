@@ -27,7 +27,6 @@ Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent
 ## ⚡ Demo
 - 🎥 2 Minute Video
 <a href="https://github.com/shakeel-data/genai-autonomous-data-agent/blob/main/demo/Demo-video.mp4">Demo</a>
-- 📂 Live Project / Streamlit App: [link]
 
 ## Getting Started
 1. Clone the repo
