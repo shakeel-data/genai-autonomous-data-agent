@@ -49,8 +49,6 @@ pip install -r requirements.txt
 - For GPU acceleration with RAPIDS,
 <a href="https://docs.rapids.ai/install">follow RAPIDS install guide</a>
 
-For GPU acceleration with RAPIDS, follow RAPIDS install guide [https://docs.rapids.ai/install/]
-
 4. Run the Streamlit app
 ```terminal
 streamlit run app.py
