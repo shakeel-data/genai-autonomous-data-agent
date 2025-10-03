@@ -1,9 +1,19 @@
-# ⚡GenAI Data Sceince Agent with GPU Acceleration & Advanced ML
+# ⚡GenAI Data Sceince Agent with GPU Acceleration Project | Python, NVIDIA NeMo, RAPIDS cuDF/cuML, TensorFlow, PyTorch, XGBoost, LightGBM, CatBoost, K-Means, SHAP, LIME, Streamlit
 
 <img width="1024" height="466" alt="GenAI-Banner" src="https://github.com/user-attachments/assets/897b5900-df95-4948-96f9-98f4bf1fea62" />
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
-
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
+  <img src="https://developer.download.nvidia.com/compute/cuda/images/NVIDIA-RAPIDS.png" width="100" alt="RAPIDS"/>
+  <img src="https://raw.githubusercontent.com/NVIDIA/NeMo/main/docs/_static/nemo_logo.png" width="90" alt="NVIDIA NeMo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="80" alt="XGBoost"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/LightGBM_logo.png" width="80" alt="LightGBM"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/CatBoostLogo.png" width="80" alt="CatBoost"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100" alt="Streamlit"/>
+</p>
 > Think of it as your Autonomous Data Scientist — always ready, always fast.
 
 ## ✨ Key Features
