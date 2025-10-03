@@ -3,7 +3,7 @@
 <img width="1024" height="466" alt="GenAI-Banner" src="https://github.com/user-attachments/assets/897b5900-df95-4948-96f9-98f4bf1fea62" />
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
-> Think of it as your Autonomous Data Scientist — always ready, always fast.
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
   <img src="https://developer.download.nvidia.com/compute/cuda/images/NVIDIA-RAPIDS.png" width="100" alt="RAPIDS"/>
