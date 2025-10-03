@@ -3,6 +3,7 @@
 <img width="1024" height="466" alt="GenAI-Banner" src="https://github.com/user-attachments/assets/897b5900-df95-4948-96f9-98f4bf1fea62" />
 An autonomous data science co-pilot that transforms raw datasets into actionable insights.
 Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent automates the entire data workflow: cleaning, EDA, modeling, visualization, natural language querying, and dashboard generation.
+> Think of it as your Autonomous Data Scientist — always ready, always fast.
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
   <img src="https://developer.download.nvidia.com/compute/cuda/images/NVIDIA-RAPIDS.png" width="100" alt="RAPIDS"/>
@@ -14,39 +15,8 @@ Powered by GenAI, SQL, Machine Learning, and NVIDIA GPU acceleration, this agent
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/CatBoostLogo.png" width="80" alt="CatBoost"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100" alt="Streamlit"/>
 </p>
-> Think of it as your Autonomous Data Scientist — always ready, always fast.
 
-⚡ Tech Stack  
-Python, NVIDIA NeMo, RAPIDS cuDF/cuML, TensorFlow, PyTorch, XGBoost, LightGBM, CatBoost, K-Means, SHAP, LIME, Streamlit  
 
-<p align="center">
-  <!-- Python -->
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
-  
-  <!-- RAPIDS -->
-  <img src="https://raw.githubusercontent.com/rapidsai/docs/main/logo/rapids-logo.png" width="100" alt="RAPIDS"/>
-  
-  <!-- NVIDIA NeMo -->
-  <img src="https://raw.githubusercontent.com/NVIDIA/NeMo/main/docs/_static/nemo_logo.png" width="90" alt="NVIDIA NeMo"/>
-  
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  
-  <!-- XGBoost -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="80" alt="XGBoost"/>
-  
-  <!-- LightGBM -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/LightGBM_logo.png" width="80" alt="LightGBM"/>
-  
-  <!-- CatBoost -->
-  <img src="https://raw.githubusercontent.com/catboost/catboost/master/catboost/logo/catboost_logo_black.png" width="90" alt="CatBoost"/>
-  
-  <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100" alt="Streamlit"/>
-</p>
 
 ## ✨ Key Features
 - ✅ Data Preprocessing – Cleans and preprocesses raw datasets automatically (missing values, scaling, encoding).
